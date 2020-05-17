@@ -1,5 +1,5 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2020-01-01
 ---
 this is a quick draft
